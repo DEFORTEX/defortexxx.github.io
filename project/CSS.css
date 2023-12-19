@@ -1,0 +1,27 @@
+h1 {
+	color: #2d2d2d;
+	text-align: center;
+	font-family: Arial;
+	font-size: 325%;	
+}
+h2 {
+	color: #2d2d2d;
+	text-align: center;
+	font-family: Arial;
+	font-size: 200%;
+}
+p {
+	color: #2d2d2d;
+	font-family: Arial;
+	font-size: 125%;
+}
+tex {
+	color: #2d2d2d;
+	font-family: Arial;
+}
+pos {
+	color: blue;
+	text-decoration-line: underline;
+	text-decoration-color: blue;
+	font-family: Arial;
+}
